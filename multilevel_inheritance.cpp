@@ -19,7 +19,7 @@ class Parents:public GP
     int age;
     string personality;
 
-    void Love()
+    void Love()  //writing same method name as that of Parent class is example of run-time polymorphism (method overidding)
     {
         cout<<"Parents scold for the benefits of their children"<<endl;
     }
