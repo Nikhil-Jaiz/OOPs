@@ -3,6 +3,10 @@
 //1-The method of Parent class and Child class should have the same name
 //2- Parent class and child class method should have same number of paramater
 //3-Run Time Polymorphism can be achieved only through Inheritance.
+
+//Run Time Polymorphism are of two types
+// 1-Method Overiding
+// 2-Virtual Functions 
 #include<bits/stdc++.h>
 using namespace std;
 
